@@ -12,7 +12,7 @@ class App extends Component {
         </header>
 
 			<Carousel />
-
+			<p>Bilder von: <a href="mailto:arnold.jakob@outlook.de">Jakob Arnold</a></p>
       </div>
     );
   }
